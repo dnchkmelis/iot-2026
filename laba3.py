@@ -1,3 +1,7 @@
+#add another  comment to the file
+# this is a placeholder for future laba 4 code
+
+
 def sum_two_smallest(positives: list):
     min1, min2, *_ = positives
 
